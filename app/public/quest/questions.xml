@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!--apply xslt-->
+<?xml-stylesheet href="template.xsl" type="text/xsl"?>
+<questions>
+  <info></info>
+  <question id="1">
+    <text>This is question 1?</text>
+    <answers>
+      <answer id="1">Choice 1</answer>
+      <answer id="2">Choice 2</answer>
+      <answer id="3">Choice 3</answer>
+      <answer id="4">Choice 4</answer>
+    </answers>
+  </question>
+  <question id="2">
+    <text>This is question 2?</text>
+    <answers>
+      <answer id="1">Choice 1</answer>
+      <answer id="2">Choice 2</answer>
+      <answer id="3">Choice 3</answer>
+      <answer id="4">Choice 4</answer>
+    </answers>
+  </question>
+  <question id="3">
+    <text>This is question 3?</text>
+    <answers>
+      <answer id="1">Choice 1</answer>
+      <answer id="2">Choice 2</answer>
+      <answer id="3">Choice 3</answer>
+      <answer id="4">Choice 4</answer>
+    </answers>
+  </question>
+  <question id="4">
+    <text>This is question 4?</text>
+    <answers>
+      <answer id="1">Choice 1</answer>
+      <answer id="2">Choice 2</answer>
+      <answer id="3">Choice 3</answer>
+      <answer id="4">Choice 4</answer>
+    </answers>
+  </question>
+</questions>
