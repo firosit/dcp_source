@@ -1,0 +1,2 @@
+module GenerateXmlHelper
+end
